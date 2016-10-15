@@ -1,0 +1,23 @@
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:5%
+}
+
+@font-face {
+    font-family: codeLight;
+    src: url(CODE%20Light.otf)
+}
+
+p {
+    text-align: center;
+    font-family: codeLight;
+    font-size: 5em;
+}
+
+.alt {
+    text-align: center;
+    font-family: codeLight;
+    font-size: 3em;
+}

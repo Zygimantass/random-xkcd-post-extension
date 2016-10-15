@@ -1,0 +1,13 @@
+{
+  "name": "Random XKCD post",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "Random XKCD post",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "content_security_policy": "script-src 'self' https://dynamic.xkcd.com; object-src 'self'"
+}
