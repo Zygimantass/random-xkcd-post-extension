@@ -1,0 +1,2 @@
+# random-xkcd-post-extension
+Shows a random XKCD post every time you open a new tab
